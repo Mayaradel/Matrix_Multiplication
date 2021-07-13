@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1607280733 source:/home/mayar/Desktop/MatrixMultiplicationByElement/main.c
+	<stdio.h>
+	<pthread.h>
+	<unistd.h>
+	<stdlib.h>
+

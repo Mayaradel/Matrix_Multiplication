@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1607273679 source:/home/mayar/Desktop/MatrixUsingRowThread/main.c
+	<stdio.h>
+	<string.h>
+	<pthread.h>
+	<unistd.h>
+	<stdlib.h>
+	<time.h>
+
